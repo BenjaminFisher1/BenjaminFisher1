@@ -1,4 +1,4 @@
-- Hi, I’m @BenjaminFisher1
+- Hi, I’m Ben
 -  I’m currently pursuing a Bachelors of Science in Computer Science with a minor in Applied Mathematics.
 -  I’m interested in combining course content from my math classes with my knowledge of Computer Science
 -  How to reach me : personalbenlfish00@gmail.com
