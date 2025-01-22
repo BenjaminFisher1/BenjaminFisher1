@@ -2,7 +2,7 @@
 -  I’m currently pursuing a Bachelors of Science in Computer Science with a minor in Applied Mathematics.
 -  I’m interested in combining course content from my math classes with my knowledge of Computer Science
 -  How to reach me : personalbenlfish00@gmail.com
--  Pronouns: He/They
+-  Pronouns: He/Him
 -  Fun fact: My interest for computer science started back in elementary school with programs like Scratch, Kodu game lab, and Code Monkey!
 
 <!---
