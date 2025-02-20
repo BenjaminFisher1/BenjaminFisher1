@@ -1,9 +1,15 @@
-- Hi, I’m Ben
--  I’m currently pursuing a Bachelors of Science in Computer Science with a minor in Applied Mathematics.
--  I’m interested in combining course content from my math classes with my knowledge of Computer Science
--  How to reach me : personalbenlfish00@gmail.com
+- Hi, I’m Ben.
+-  Currently pursuing a Bachelors of Science in Computer Science with a minor in Applied Mathematics.
+-  Contact Information: BenLFish00@gmail.com
 -  Pronouns: He/Him
--  Fun fact: My interest for computer science started back in elementary school with programs like Scratch, Kodu game lab, and Code Monkey!
+- 
+-  Determined Computer Science student passionate about problem solving and technology.
+-  Skilled in critical thinking, collaboration, and programming in multiple languages such as Java, C/C++, JavaScript, and HTML/CSS.
+-  Well versed in Microsoft Suite.
+-  Efficient team player with leadership capability and organized work flow.
+-  Strong time management and prioritization skills allow for flourishing in dynamic environments.
+-  Seeking an internship for Summer 2025 to apply technical skills and work with a team in a professional setting.
+  
 
 <!---
 BenjaminFisher1/BenjaminFisher1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
