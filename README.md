@@ -4,7 +4,7 @@
 -  Pronouns: He/They
   
 -  Determined Computer Science student passionate about problem solving and technology.
--  Skilled in critical thinking, collaboration, and programming in multiple languages such as Java, C/C++, JavaScript, and HTML/CSS.
+-  Skilled in critical thinking, collaboration, and programming in multiple languages such as Java, C/C++, Assembler, JavaScript, and HTML/CSS.
 -  Well versed in Microsoft Suite.
 -  Efficient team player with leadership capability and organized work flow.
 -  Strong time management and prioritization skills allow for flourishing in dynamic environments.
