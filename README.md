@@ -3,14 +3,13 @@
 -  Contact Information: BenLFish00@gmail.com
 -  Pronouns: He/They
   
--  Determined Computer Science student passionate about problem solving and technology.
--  Skilled in critical thinking, collaboration, and programming in multiple languages such as Java, C/C++, Assembler, JavaScript, and HTML/CSS.
--  Well versed in Microsoft Suite.
--  Efficient team player with leadership capability and organized work flow.
--  Strong time management and prioritization skills allow for flourishing in dynamic environments.
--  Seeking an internship for Summer 2025 to apply technical skills and work with a team in a professional setting.
-  
+- Determined Computer Science student with a passion in cybersecurity and IT.
+- Currently working towards my Bachelor's degree while working as an IT Service Desk Technician
+- Collaborating with my peers to lead the largest Computer Science organization at SUNY New Paltz, Eleet Coders.
+- I have a strong background in programming and software development through my degree program, as well as a deep understanding of hardware through my current IT job and passion projects.
+- I recently obtained my CompTIA A+ certification and I am currently studying for the Security+.
 
+Searching for a career where I can apply my experience and passion for technology while continuing to learn from skilled professionals once I graduate in Spring 2026.
 <!---
 BenjaminFisher1/BenjaminFisher1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
