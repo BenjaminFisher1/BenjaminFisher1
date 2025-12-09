@@ -4,7 +4,7 @@
 -  Pronouns: He/They
   
 - Determined Computer Science student with a passion in cybersecurity and IT.
-- Currently working towards my Bachelor's degree while working as an IT Service Desk Technician
+- Working as an IT Service Desk Technician, providing software and hardware troubleshooting to a student & faculty body of around 8,000.
 - Collaborating with my peers to lead the largest Computer Science organization at SUNY New Paltz, Eleet Coders.
 - I have a strong background in programming and software development through my degree program, as well as a deep understanding of hardware through my current IT job and passion projects.
 - I recently obtained my CompTIA A+ certification and I am currently studying for the Security+.
