@@ -11,7 +11,8 @@
 
 Searching for a career where I can apply my experience and passion for technology while continuing to learn from skilled professionals once I graduate in Spring 2026.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminFisher1)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminFisher1)
+
 
 <!---
 BenjaminFisher1/BenjaminFisher1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
