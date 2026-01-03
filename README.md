@@ -5,7 +5,7 @@
 - Hi, I’m Ben.
 -  Currently pursuing a Bachelors of Science in Computer Science with a minor in Applied Mathematics.
 -  Contact Information: BenLFish00@gmail.com
--  Pronouns: He/They
+-  Pronouns: He/Him
 
 - Determined Computer Science student with a passion in cybersecurity and IT.
 - Working as an IT Service Desk Technician, providing software and hardware troubleshooting to a student & faculty body of around 8,000.
