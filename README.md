@@ -20,8 +20,9 @@ BS in Computer Science, Minor in Applied Mathematics | GPA: 3.80/4.0
 
 ## Certifications
 
-- CompTIA A+ (2025)
+
 - CompTIA Security+ (In Progress)
+- CompTIA A+ (2025)
 - Microsoft Security Copilot (2024)
 
 ## Featured Projects
