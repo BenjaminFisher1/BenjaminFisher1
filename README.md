@@ -26,7 +26,7 @@ BS in Computer Science, Minor in Applied Mathematics | GPA: 3.80/4.0
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminFisher1&layout=compact&theme=default&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminFisher1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Featured Projects
 
