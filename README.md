@@ -26,7 +26,7 @@ BS in Computer Science, Minor in Applied Mathematics | GPA: 3.80/4.0
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BenjaminFisher1&layout=compact)
+![Top Languages](https://github-readme-stats-BenjaminFisher1.vercel.app/api/top-langs/?username=BenjaminFisher1&layout=compact)
 
 ## Featured Projects
 
