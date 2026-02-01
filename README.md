@@ -24,7 +24,7 @@ BS in Computer Science, Minor in Applied Mathematics | GPA: 3.80/4.0
 - CompTIA Security+ (In Progress)
 - Microsoft Security Copilot (2024)
 
-  ## GitHub Stats
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminFisher1&layout=compact&theme=default)
 
