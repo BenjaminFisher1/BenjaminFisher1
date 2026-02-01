@@ -15,13 +15,8 @@
 
 Searching for a career where I can apply my experience and passion for technology while continuing to learn from skilled professionals once I graduate in Spring 2026.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
-
-
-
-<!--- Old languages link:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminFisher1)
---->
+
 
 
 <!---
