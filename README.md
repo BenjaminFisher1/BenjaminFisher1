@@ -41,7 +41,7 @@ Complete assembler, interpreter, and linker with symbol resolution and executabl
 **Email:** BenLFish00@gmail.com  
 **LinkedIn:** [linkedin.com/in/benjaminleefisher](https://linkedin.com/in/benjaminleefisher)  
 **TryHackMe:** [tryhackme.com/p/benlfish00](https://tryhackme.com/p/benlfish00)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminFisher1)
+
 
 
 
