@@ -42,7 +42,9 @@ Complete assembler, interpreter, and linker with symbol resolution and executabl
 **LinkedIn:** [linkedin.com/in/benjaminleefisher](https://linkedin.com/in/benjaminleefisher)  
 **TryHackMe:** [tryhackme.com/p/benlfish00](https://tryhackme.com/p/benlfish00)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminFisher1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminFisher1&theme=chartreuse-dark&langs_count=50&size_weight=0.5&count_weight=0.5" />
+</p>
 
 
 
