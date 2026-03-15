@@ -43,7 +43,10 @@ Complete assembler, interpreter, and linker with symbol resolution and executabl
 **TryHackMe:** [tryhackme.com/p/benlfish00](https://tryhackme.com/p/benlfish00)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminFisher1&theme=chartreuse-dark&langs_count=50&size_weight=0.5&count_weight=0.5" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminFisher1&langs_count=12&theme=chartreuse-dark" 
+    width="400"
+  />
 </p>
 
 
