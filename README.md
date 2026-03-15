@@ -5,8 +5,7 @@
 
 **IT Service Desk Technician | CS Student | CompTIA A+ Certified**
 
-Senior Computer Science student at SUNY New Paltz specializing in cybersecurity and IT infrastructure. Currently providing Tier 1 support to 8,000+ users while pursuing CompTIA Security+. Seeking cybersecurity or IT roles starting May 2026.
-
+Senior Computer Science student at SUNY New Paltz specializing in cybersecurity and IT infrastructure. Currently providing Tier 1 support to 8,000+ users while pursuing CompTIA Security+. 
 ## Education
 
 **SUNY New Paltz** | Expected May 2026  
