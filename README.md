@@ -42,10 +42,12 @@ Complete assembler, interpreter, and linker with symbol resolution and executabl
 **LinkedIn:** [linkedin.com/in/benjaminleefisher](https://linkedin.com/in/benjaminleefisher)  
 **TryHackMe:** [tryhackme.com/p/benlfish00](https://tryhackme.com/p/benlfish00)
 
-| | |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminFisher1&langs_count=6&theme=chartreuse-dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminFisher1&langs_count=6&theme=chartreuse-dark&hide=python,javascript"/> |
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminFisher1&langs_count=12&theme=chartreuse-dark" 
+    width="400"
+  />
+</p>
 
 
 
