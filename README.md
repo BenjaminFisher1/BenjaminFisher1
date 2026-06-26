@@ -26,6 +26,9 @@ BS in Computer Science, Minor in Applied Mathematics | GPA: 3.80/4.0
 
 ## Featured Projects
 
+**RULA (Risky Users Log Analyzer)** | Python, Docker, PostgreSQL, Microsoft Graph API  
+CLI tool for analyzing risky user logs in Microsoft Entra ID. Surfaces high-priority security events with custom risk scoring, pattern detection, and AES-GCM-SIV encrypted storage.
+
 **Cybersecurity Training** | TryHackMe, Hack The Box  
 Offensive and defensive security writeups. Competed in IEEE Mid-Hudson Cybersecurity Ethics Competition.
 
