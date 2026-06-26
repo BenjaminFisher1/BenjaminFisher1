@@ -3,13 +3,13 @@
 
 # Benjamin Fisher
 
-**IT Service Desk Technician | CS Student | CompTIA A+ Certified**
+**IT Support Tech II | CS Graduate | CompTIA A+ Certified**  
+Computer Science graduate specializing in cybersecurity and IT infrastructure. Currently providing Tier II support while pursuing CompTIA Security+.
 
-Senior Computer Science student at SUNY New Paltz specializing in cybersecurity and IT infrastructure. Currently providing Tier 1 support to 8,000+ users while pursuing CompTIA Security+. 
 ## Education
 
-**SUNY New Paltz** | Expected May 2026  
-BS in Computer Science, Minor in Applied Mathematics | GPA: 3.80/4.0
+**Bachelor of Science in Computer Science** | Graduated May 2026  
+Minor in Applied Mathematics | GPA: 3.81/4.0
 
 ## Technical Skills
 
