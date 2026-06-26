@@ -8,8 +8,8 @@ Computer Science graduate specializing in cybersecurity and IT infrastructure. C
 
 ## Education
 
-**Bachelor of Science in Computer Science** | Graduated May 2026  
-Minor in Applied Mathematics | GPA: 3.81/4.0
+**Bachelor of Science in Computer Science** | Graduated May 2026 | GPA: 3.81/4.0 |
+Minor in Applied Mathematics
 
 ## Technical Skills
 
