@@ -14,7 +14,7 @@ Minor in Applied Mathematics
 ## Technical Skills
 
 **Languages:** Java, C/C++, Assembly, Python, PowerShell, Bash, SQL  
-**Technologies:** Microsoft Entra ID, TeamDynamix, Metasploit, Burp Suite, Wireshark, Nmap, Git, VMWare  
+**Technologies:** Microsoft Entra ID, Docker, TeamDynamix, ServiceDesk, Metasploit, Burp Suite, Wireshark, Nmap, Git, VMWare  
 **Specializations:** DNS, DHCP, Wireless Networking, Windows/MacOS/Linux Administration
 
 ## Certifications
